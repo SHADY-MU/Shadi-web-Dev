@@ -43,7 +43,7 @@ const projects: ProjectItem[] = [
     category: "Landing Page",
     description:
       "A fast, responsive web application tailored for businesses with clean architectural patterns, interactive UI elements, and full mobile optimization.",
-    link: "#",
+    link: "https://shadi-web-dev.vercel.app/",
     tech: ["Next.js", "Tailwind", "TypeScript"],
   },
 ];
